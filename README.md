@@ -17,7 +17,7 @@ All experiments were implemented using **JAX**, leveraging its automatic differe
 |------|--------------|
 | `JAX_Simulation.ipynb` | Generates two-neuron calcium imaging data using a simplified LIF-based model. |
 | `TwoNeuron_JAX.py` | Core simulation script defining neuron and synapse dynamics. |
-| `model.py` | Implementation of the 1D U-Net Consistency Model architecture (*adopted and modified from Zhao et al., 2025*). |
+| `model.py` | Implementation of the 1D U-Net Consistency Model architecture (*adopted from Zhao et al., 2025*). |
 | `mcmc_cm_inference_comparison.ipynb` | Compares inference accuracy between MCMC and Consistency Model approaches. |
 | `README.md` | Overview and documentation of the repository. |
 
